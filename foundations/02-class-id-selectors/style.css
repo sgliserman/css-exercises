@@ -1,0 +1,21 @@
+/* style.css */
+
+.num1 {
+    background-color: #ffa7a7; /* salmon */
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.butalsonum3 {
+    font-size: 24px;
+}
+
+#num2 {
+    font-size: 36px;
+    color: #0000ff; /* Blue */
+}
+
+#num4 {
+    background: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
